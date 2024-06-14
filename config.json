@@ -1,4 +1,4 @@
 {
   "changelog":"",
-  "log":"source,Ref A:,retry, Ref A|source,This page isn’t working right now,retry,This page isn’t working right now|ele,//*[@value='Verify'],error,2Fa ?|url,proofs/Verify?,error,2Fa ?|url,/recover?,error,2Fa ?|url,/Abuse?,error,2Fa ?|ele_click,//*[@id='piplConsentContinue'],,|source,We are currently experiencing high demand. Please wait and try again later.,retry,We are currently experiencing high demand. Please wait and try again later"
+  "log":"source,Ref A:,retry, Ref A|source,This page isn’t working right now,retry,This page isn’t working right now|ele,//*[@value='Verify'],error,2Fa ?|url,proofs/Verify?,error,2Fa ?|url,/recover?,error,2Fa ?|url,/Abuse?,error,2Fa ?|ele_click,//*[@id='piplConsentContinue'],,|ele_click,//*[@id='mectrl_headerPicture'],,|ele_click,//*[@id='mectrl_viewAccount'],,|source,We are currently experiencing high demand. Please wait and try again later.,retry,We are currently experiencing high demand. Please wait and try again later"
 }
